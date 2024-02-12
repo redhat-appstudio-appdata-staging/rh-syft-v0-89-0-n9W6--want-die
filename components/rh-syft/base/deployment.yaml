@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: rh-syft-v0-89-0
   name: rh-syft
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
